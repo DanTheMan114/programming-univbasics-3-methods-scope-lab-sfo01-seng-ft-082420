@@ -12,3 +12,6 @@ def link
   level = "It's Dangerous To Go Alone! Take This."
   puts level
 end
+
+def all_phrases
+  
